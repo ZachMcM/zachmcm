@@ -2,7 +2,7 @@
 
 I'm Zach McMullen
 - Incoming freshmen at Purdue University studying Computer Science
-- Tech intern at [Miracle Flights](https://miracleflights.org/)
+- Tech Intern at [Miracle Flights](https://miracleflights.org/)
 
 ## I'm currently working on 👨🏽‍💻
 - A Free Politics API
