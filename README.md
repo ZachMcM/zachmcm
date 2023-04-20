@@ -6,6 +6,7 @@ I'm Zach McMullen
 ## I'm currently working on 👨🏽‍💻
 - My Portfolio
 - A Attack on Titan API
+- A Riemann sum calculator
 
 ## About me ⚡️
 I'm an incoming freshmen at Purdue University studying Computer Science originally from Las Vegas, NV! I love to play video games, listen to music, and play basketball 🏀!
