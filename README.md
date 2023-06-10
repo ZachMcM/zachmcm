@@ -1,12 +1,12 @@
 # Hi! 👋
 
 I'm Zach McMullen
-- Incoming freshmen at Purdue University studying Computer Science
+- Incoming freshmen at Purdue University 📚 studying Computer Science
 
 ## I'm currently working on 👨🏽‍💻
 - A Music Rating App
 
-# Projects I've recently finished
+## Projects I've recently finished
 - An Attack on Titan API
 - An AI Saas called worksheetai
 
