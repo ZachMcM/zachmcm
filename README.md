@@ -4,16 +4,16 @@ I'm Zach McMullen
 - Freshmen at Purdue University 📚 studying Computer Science
 
 ## I'm currently working on 👨🏽‍💻
-- An AI App for Students
+- An AI app for students called [Studium AI](https://studiumai.app)
 
 ## Projects I've recently finished
 - An Attack on Titan API
-- An NPM package for calculating Riemann Sums
+- An NPM package for calculating Riemann sums
 
 ## About me ⚡️
-I'm an incoming freshmen at Purdue University studying Computer Science originally from Las Vegas, NV! I love to play video games, listen to music, and play basketball 🏀!
+I'm a freshmen at Purdue University studying Computer Science originally from Las Vegas, NV! I love to play video games, listen to music, and play basketball 🏀!
 
 ## Get in touch 📩
 - [Email](zachmcmullen04@gmail.com)
-- [IG](https://www.instagram.com/zachmcmullen0/)
+- [Website](https://zachmcmullen.com)
 - [LinkedIn](https://www.linkedin.com/in/zach-mcmullen-ba3a2621b/)
