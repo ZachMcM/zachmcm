@@ -1,7 +1,7 @@
 # Hi! 👋
 
 I'm Zach McMullen
-- Incoming freshmen at Purdue University 📚 studying Computer Science
+- Freshmen at Purdue University 📚 studying Computer Science
 
 ## I'm currently working on 👨🏽‍💻
 - A Music Rating App
