@@ -4,11 +4,11 @@ I'm Zach McMullen
 - Freshmen at Purdue University 📚 studying Computer Science
 
 ## I'm currently working on 👨🏽‍💻
-- A Music Rating App
+- An AI App for Students
 
 ## Projects I've recently finished
 - An Attack on Titan API
-- An AI Saas called worksheetai
+- An NPM package for calculating Riemann Sums
 
 ## About me ⚡️
 I'm an incoming freshmen at Purdue University studying Computer Science originally from Las Vegas, NV! I love to play video games, listen to music, and play basketball 🏀!
