@@ -5,6 +5,7 @@ I'm Zach McMullen
 
 ## I'm currently working on 👨🏽‍💻
 - An AI app for students called [Studium AI](https://studiumai.app)
+- An Instagram clone
 
 ## Projects I've recently finished
 - An Attack on Titan API
