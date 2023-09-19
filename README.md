@@ -15,6 +15,6 @@ I'm Zach McMullen
 I'm a freshmen at Purdue University studying Computer Science originally from Las Vegas, NV! I love to play video games, listen to music, and play basketball 🏀!
 
 ## Get in touch 📩
-- [Email](zachmcmullen04@gmail.com)
+- [Email](mailto:zachmcmullen04@gmail.com)
 - [Website](https://zachmcmullen.com)
-- [LinkedIn](https://www.linkedin.com/in/zach-mcmullen-ba3a2621b/)
+- [LinkedIn](https://www.linkedin.com/in/zm-lv/)
