@@ -1,7 +1,7 @@
 # Hi! 👋
 
 I'm Zach McMullen
-- Freshmen at Purdue University 📚 studying Computer Science
+- Incoming sophmore at Purdue University 📚 studying Computer Science
 
 ## I'm currently working on 👨🏽‍💻
 - An AI app for students called [Studium AI](https://studiumai.app)
