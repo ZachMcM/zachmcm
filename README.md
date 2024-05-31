@@ -4,15 +4,14 @@ I'm Zach McMullen
 - Incoming sophmore at Purdue University 📚 studying Computer Science
 
 ## I'm currently working on 👨🏽‍💻
+- An native mobile app for Purdue Pickup Basketball called [Purdue Hoops](github.com/ZachMcM/purdue-hoops-app)
+
+## Projects I've recently finished
 - An AI app for students called [Studium AI](https://studiumai.app)
 - An [Instagram Clone](https://social-clone.vercel.app)
 
-## Projects I've recently finished
-- An Attack on Titan API
-- An NPM package for calculating Riemann sums
-
 ## About me ⚡️
-I'm a freshmen at Purdue University studying Computer Science originally from Las Vegas, NV! I love to play video games, listen to music, and play basketball 🏀!
+I'm a sophmore at Purdue University studying Computer Science originally from Las Vegas, NV! I love to play video games, listen to music, and play basketball 🏀!
 
 ## Get in touch 📩
 - [Email](mailto:zachmcmullen04@gmail.com)
