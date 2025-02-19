@@ -4,7 +4,7 @@ I'm Zach McMullen
 - Incoming sophmore at Purdue University 📚 studying Computer Science
 
 ## I'm currently working on 👨🏽‍💻
-- An native mobile app for Purdue Pickup Basketball called [Purdue Hoops](github.com/ZachMcM/purdue-hoops)
+- An native mobile app for Purdue Pickup Basketball called [Purdue Hoops](https://github.com/ZachMcM/purdue-hoops)
 
 ## Projects I've recently finished
 - An AI app for students called [Studium AI](https://studiumai.app)
